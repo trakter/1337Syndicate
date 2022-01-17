@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @1337Syndicate
+1337Syndicate | IT Security Development Research
