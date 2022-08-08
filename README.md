@@ -1,1 +1,1 @@
-1337Syndicate | IT Security Development Research
+## **1337Syndicate**
