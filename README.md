@@ -1,1 +1,1 @@
-## **1337Syndicate - Developer Docs and Pentesters.**
+# **1337Syndicate - Developer Docs and Pentesters.**
